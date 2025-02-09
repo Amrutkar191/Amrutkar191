@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hi there, I'm Bhavesh Sanjay Amrutkar!
 
-<!--
-**Amrutkar191/Amrutkar191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate developer with expertise in building responsive and scalable web applications. I love exploring new technologies and crafting solutions that make a difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Skills & Tech Stack
+
+🌐 Frontend Development
+- Languages: HTML5, CSS3, JavaScript (ES6+)
+- Frameworks/Libraries: React.js, Tailwind CSS
+- Tools: Redux, Vite, Figma (for prototyping)
+
+🖥️ Backend Development
+- Languages: JavaScript (Node.js)
+- Frameworks: Express.js
+- Databases: MongoDB, MySQL
+
+⚡ Others
+- Version Control: Git, GitHub
+- Deployment: Netlify, Vercel, Heroku
+- Methodologies: REST API Design, MVC Architecture
